@@ -18,6 +18,10 @@
 * OS(python standard)
 * urllib(python standard)
 
+run.sh contains the run command  
+python ./src/process_log.py ./log_input/log.txt ./log_output/hosts.txt ./log_output/hours.txt ./log_output/resources.txt ./log_output/blocked.txt ./log_output/extensions.txt ./log_output/http_errors.txt
+[python file] [log input path] [Feature 1 output] [Feature 3 output] [Feature 2 output] [Feature 4 output] [Feature 5 output] [Feature 6 output]
+
 Running time for the given log input:
 
 For log with 4,400,644 events
