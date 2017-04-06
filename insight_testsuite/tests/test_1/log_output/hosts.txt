@@ -1,0 +1,10 @@
+piweba3y.prodigy.com,225
+hoohoo.ncsa.uiuc.edu,222
+siltb10.orl.mmc.com,173
+163.206.89.4,155
+proxy0.research.att.com,153
+edams.ksc.nasa.gov,145
+poppy.hensa.ac.uk,141
+demo2.it.sce.nyu.edu,127
+gw1.att.com,126
+usr12-dialup10.atlanta.mci.net,102
